@@ -17,8 +17,9 @@ public class Product {
 		@Column(name="product_id")
 		private int id;
 
+//		@Column(name="category_id")
+//		private String categoryId;
 
-		
 		@Column(name="product_name")
 		private String productName;
 		
